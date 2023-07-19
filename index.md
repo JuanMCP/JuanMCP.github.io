@@ -7,7 +7,7 @@
 
 Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium](https://medium.com/@juan3manu/datos-y-d%C3%B3lares-un-an%C3%A1lisis-perceptivo-de-los-salarios-en-la-ciencia-de-datos-263b97b7bd6e) o [Ver código en GitHub](https://github.com/JuanMCP/proyecto-portafolio/blob/main/data/Data%20Science%20Salary/2023_Analisis_Inicial.ipynb)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/data dinero.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
 
 ---
 
