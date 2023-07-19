@@ -16,7 +16,9 @@ Un análisis de las tendencias salariales en la ciencia de datos a través de mi
 - Python
 - R
 - Excel
-- ...
+- Tableau
+- Photoshop
+- Adobe Premier
 
 ---
 
