@@ -22,7 +22,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 
 ### Me puedes contactar por una de estás vías
 
-- [LinkedIn](https://www.linkedin.com/in/tu-linkedin/](https://www.linkedin.com/in/juan-manuel-castro-008772283/))
+- [LinkedIn](www.linkedin.com/in/juan-manuel-castro-008772283))
 - Correo electrónico a <juan3manu@gmail.com>
 - [GitHub](https://github.com/tu-github/)
 - [Twitter](https://twitter.com/tu-twitter)
