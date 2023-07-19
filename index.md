@@ -26,7 +26,7 @@ Escribir una pequeña introducción de este proyecto. [Seguir leyendo en Medium]
 - Correo electrónico a <juan3manu@gmail.com>
 - [GitHub](https://github.com/tu-github/)
 - [Twitter](https://twitter.com/tu-twitter)
-- [Medium](https://medium.com/@tu-medium)
+- [Medium](https://medium.com/@juan3manu)
 - [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
 
 ---
