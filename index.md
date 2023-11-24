@@ -17,8 +17,8 @@ Un análisis de las tendencias salariales en la ciencia de datos a través de mi
 - R
 - Excel
 - Tableau
-- Photoshop
-- Adobe Premier
+- SQL
+- HTML
 
 ---
 
