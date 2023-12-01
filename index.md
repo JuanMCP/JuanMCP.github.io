@@ -28,6 +28,6 @@ Un análisis de las tendencias salariales en la ciencia de datos a través de mi
 - Correo electrónico a <juan3manu@gmail.com>
 - [GitHub](https://github.com/JuanMCP)
 - [Medium](https://medium.com/@juan3manu)
-- [Mi CV](/pdf/plantilla-curriculum-blanco.pdf)
+- [Mi CV](/pdf/cv.pdf)
 
 ---
